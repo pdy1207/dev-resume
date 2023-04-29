@@ -1,0 +1,51 @@
+$basiccolor: #2db400;
+
+.resume {
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 300;
+  word-wrap: break-word;
+  word-break: keep-all;
+  line-height: 1.8;
+}
+.me {
+  font-family: "Parisienne", cursive;
+  font-size: 1.5em;
+}
+.blue {
+  color: $basiccolor;
+}
+h4 {
+  > a {
+    color: $basiccolor;
+    &:hover {
+      color: $basiccolor;
+    }
+  }
+}
+.col-auto {
+  > a {
+    color: $basiccolor;
+    &:hover {
+      color: $basiccolor;
+    }
+  }
+}
+.gray {
+  color: gray;
+}
+
+.profile-img {
+  max-height: 280px;
+}
+
+.footer-cover {
+  background-color: #f5f5f5;
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 50px;
+  height: 80px;
+}
+
+.footer {
+  padding-top: 10px;
+}
