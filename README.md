@@ -21,3 +21,11 @@ HELLO ! <br>
 - Add dark/light mode
 - Separating and cleaning CSS / Trying out old CSS (X using SCSS)
 - First push on github🚀
+
+## _2023-10-01_
+
+- Add career description
+- Certifications and projects undertaken
+- Related notion links and additional explanations
+- Add scroll CSS and override bootstrap
+- Download PDF and separate projects
