@@ -29,3 +29,8 @@ HELLO ! <br>
 - Related notion links and additional explanations
 - Add scroll CSS and override bootstrap
 - Download PDF and separate projects
+
+## _2023-12-30_
+
+- Add freelance experience
+- Add progress and edit dates
