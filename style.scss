@@ -49,3 +49,12 @@ h4 {
 .footer {
   padding-top: 10px;
 }
+
+#scrollToTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  cursor: pointer;
+}

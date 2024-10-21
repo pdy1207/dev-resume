@@ -9,6 +9,12 @@ HELLO ! <br>
 > And for the reference of many people, README is written. <BR>
 > We plan to provide and update open source through github.
 
+## _2024-10-21_
+
+- Addition of job roles and responsibilities
+- Efficiently reorganize the project's directory and structure to enhance - readability and maintainability
+- Addition of scroll events: Implement page scroll events to strengthen the interactivity of the interface
+
 ## _2023-04-22_
 
 - Korean/English version added (README.md resume later)

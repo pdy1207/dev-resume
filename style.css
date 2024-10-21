@@ -41,7 +41,7 @@ body {
 
 .darkmode-toggle-wrapper {
   position: fixed;
-  bottom: 17px;
+  bottom: 74px;
   right: 19px;
   z-index: 999;
   --darkmode-toggle-height: var(--darkmode-toggle-size);
@@ -116,4 +116,12 @@ body::-webkit-scrollbar-thumb {
   body {
     scrollbar-color: var(--sb-thumb-color) var(--sb-track-color);
   }
+}
+#scrollToTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  cursor: pointer;
 }
