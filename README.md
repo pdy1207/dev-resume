@@ -9,6 +9,12 @@ HELLO ! <br>
 > And for the reference of many people, README is written. <BR>
 > We plan to provide and update open source through github.
 
+## _2025-02-21_
+
+- Summarize the side project concisely.
+- Organize work experience.
+- Update the resume date.
+
 ## _2024-10-21_
 
 - Addition of job roles and responsibilities
