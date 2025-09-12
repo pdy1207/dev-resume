@@ -46,3 +46,9 @@ HELLO ! <br>
 
 - Add freelance experience
 - Add progress and edit dates
+
+## _2025-09-12_
+
+- Added career history
+- Updated update date
+- Added PDF file
